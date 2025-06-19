@@ -1,10 +1,4 @@
 # myfirstrepo
 myfirstrepo
 
-
-
-
-
-myfirstchange
-
-my second change
+I am the all powerful Oz!! 
