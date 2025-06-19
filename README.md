@@ -1,4 +1,4 @@
 # myfirstrepo
 myfirstrepo
 
-I am the all powerful Oz!! 
+You are an ogre, Shrek.
